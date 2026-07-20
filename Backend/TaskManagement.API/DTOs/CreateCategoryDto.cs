@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace TaskManagement.API.DTOs.CategoryDTOs
+namespace TaskManagement.API.DTOs
 {
     public class CreateCategoryDto
     {

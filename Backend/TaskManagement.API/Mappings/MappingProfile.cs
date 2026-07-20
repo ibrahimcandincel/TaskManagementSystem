@@ -1,5 +1,5 @@
 using AutoMapper;
-using TaskManagement.API.DTOs.UserDTOs;
+using TaskManagement.API.DTOs;
 using TaskManagement.API.Models;
 
 namespace TaskManagement.API.Mappings

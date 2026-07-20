@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace TaskManagement.API.DTOs.UserDTOs
+namespace TaskManagement.API.DTOs
 {
     public class UpdateUserDto
     {

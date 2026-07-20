@@ -58,7 +58,7 @@ namespace TaskManagement.API.Data
                 Id = demoUserId,
                 Username = "demouser",
                 Email = "demo@taskmanagement.com",
-                PasswordHash = "hashed_password_placeholder", // İleride gerçek hash ile değiştireceğiz
+                PasswordHash = "hashed_password_placeholder",
                 FirstName = "Demo",
                 LastName = "Kullanıcı",
                 CreatedAt = DateTime.UtcNow,

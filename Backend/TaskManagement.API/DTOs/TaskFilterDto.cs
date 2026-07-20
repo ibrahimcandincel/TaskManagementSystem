@@ -1,6 +1,6 @@
 using System;
 
-namespace TaskManagement.API.DTOs.TaskDTOs
+namespace TaskManagement.API.DTOs
 {
     public class TaskFilterDto
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace TaskManagement.API.DTOs.UserDTOs
+namespace TaskManagement.API.DTOs
 {
     public class UserDto
     {
